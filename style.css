@@ -39,6 +39,7 @@ body {
   font-size: 30px;
   line-height: 35px;
   padding: 0 13px;
+  overflow: hidden;
 }
 
 .search__element:hover {
@@ -66,7 +67,8 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 24px;
   line-height: 28px;
-  margin: 0;
+  margin: 0 60px 0 0;
+  overflow: hidden;
 }
 
 .result-cancel {
